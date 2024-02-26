@@ -154,7 +154,7 @@ body {
   transform: translate(-50%, -100%);
   width: 8vmin;
   height: 8vmin;
-  background-color: #6bf0ff;
+  background-color: #d01efc;
   filter: blur(10vmin);
 }
 .flower__leaf {
@@ -271,7 +271,7 @@ body {
           animation: light-ans 4s linear infinite backwards;
 }
 .flower__light:nth-child(odd) {
-  background-color: #23f0ff;
+  background-color: #e33bd5;
 }
 .flower__light--1 {
   left: -2vmin;
